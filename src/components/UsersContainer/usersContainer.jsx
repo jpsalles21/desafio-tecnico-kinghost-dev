@@ -13,7 +13,7 @@ const UsersContainer = () => {
                     <States onStateSelect={setSelectedState} />
                     <h2 className="states-wrapper__user">Lista de usuários</h2>
                 </div>
-                {selectedState && <UsersByState state={selectedState} />}
+                {<UsersByState state={selectedState} />}
             </div>
         </div>
     );
