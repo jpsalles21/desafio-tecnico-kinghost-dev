@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { fetchUserStates } from '../../api/api';
+import { fetchUsersStates } from '../../api/api';
 import './style.css';
 
 const States = ({ onStateSelect }) => {
@@ -9,7 +9,7 @@ const States = ({ onStateSelect }) => {
     useEffect(() => {
         const getStates = async () => {
             try {
-                const fetchedStates = await fetchUserStates();
+                const fetchedStates = await fetchUsersStates();
                 setStates(fetchedStates);
             } catch (error) {
                 console.error(error);

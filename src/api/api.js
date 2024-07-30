@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const url = 'https://dummyjson.com/users?limit=1000';
 
-export const fetchUserStates = async () => {
+export const fetchUsersStates = async () => {
     try {
         const response = await axios.get(url);
         const users = response.data.users;
