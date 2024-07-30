@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 3.75rem);
+    margin-top: 1.25rem; 
+}
+
+.container__content {
+    flex: 1;
+    padding: 1.25rem; 
+    overflow-y: auto;
+    background-color: #FFF;
+    display: flex;
+    flex-direction: column;
+}
+
+.states-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;  
+}
+
+.states-wrapper__user {
+    font-size: 1.25rem;
+    padding: 0 0 0 1rem;
+}
+
+
+.states {
+    width: 18.75rem; 
+    margin-bottom: 1rem;    
+}
