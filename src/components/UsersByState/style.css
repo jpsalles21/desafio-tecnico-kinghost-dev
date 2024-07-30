@@ -1,0 +1,56 @@
+.users-by-state {
+    padding: 1rem 1rem 2rem 1rem;
+}
+
+.users-by-state h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1F2937;
+}
+
+.users-by-state p {
+    font-size: 0.875rem;
+    color: #4B5563;
+    margin-top: 0.5rem;
+}
+
+.table-container {
+    border: 1px solid #D1D5DB;
+    border-radius: 0.375rem;
+    overflow-x: auto;    
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.users-table thead {
+    background-color: #F9FAFB;
+}
+
+.users-table th,
+.users-table td {
+    padding: 1rem;
+    border-bottom: 1px solid #E5E7EB;
+    text-align: left;
+}
+
+.users-table th {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #42464E;
+    background-color: #ECE5F7;
+}
+
+.users-table td {
+    font-size: 0.875rem;
+    color: #6B7280;
+}
+
+.user-image {
+    width: 2.5rem;
+    height: 2.5rem;    
+    border-radius: 50%;
+    border: 0.075rem solid #5F23A0;
+}
