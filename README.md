@@ -8,6 +8,7 @@ Projeto realizado em React, utilizando JavaScript para obter os dados da API ext
 3. Execute ```npm install``` para instalar as dependências do projeto.
 4. Use o comando ```npm start``` para iniciar o servidor de desenvolvimento.
 5. No navegador, entre em localhost:3000.
+6. Aguarde até que o projeto seja inicializado.
 
 ## Features: 
 - Dropdown para selecionar o estado e visualizar os usuários:
