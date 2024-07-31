@@ -17,4 +17,11 @@ Projeto realizado em React, utilizando JavaScript para obter os dados da API ext
 - Tabela de usuários com foto, nome, email, telefone, cidade e estado, organizado por ordem alfabética do nome do usuário após a escolha do estado.
 
 ![image](https://github.com/user-attachments/assets/606f5ffa-d81e-4d6c-a586-611819d99d65)
-Desenvolvido por João Pedro Salles. 
+
+## Estrutura do projeto:
+
+![image](https://github.com/user-attachments/assets/e0c99de0-e488-4b2e-9328-edf4bb4655dd)
+
+
+Desenvolvido por João Pedro Salles.
+
