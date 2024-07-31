@@ -2,11 +2,11 @@
 Projeto realizado em React, utilizando JavaScript para obter os dados da API externa. 
 
 ## Para rodar a aplicação:
-- Certifique-se de que possui npm e node.js instalados na sua máquina.
+- Certifique-se de que possui npm e node.js instalados na sua máquina. (npm 10.8.2 e node 20.15.1)
 1. Clone o projeto.
 2. Acesse a pasta do projeto
 3. Execute ```npm install``` para instalar as dependências do projeto.
 4. Use o comando ```npm start``` para iniciar o servidor de desenvolvimento.
 5. No navegador, entre em localhost:3000.
 
-
+Desenvolvido por João Pedro Salles. 
