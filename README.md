@@ -9,4 +9,12 @@ Projeto realizado em React, utilizando JavaScript para obter os dados da API ext
 4. Use o comando ```npm start``` para iniciar o servidor de desenvolvimento.
 5. No navegador, entre em localhost:3000.
 
+## Features: 
+- Dropdown para selecionar o estado e visualizar os usuários:
+  
+![image](https://github.com/user-attachments/assets/2d3b1aa3-a124-47b0-aa33-cdd6dea13672)
+
+- Tabela de usuários com foto, nome, email, telefone, cidade e estado, organizado por ordem alfabética do nome do usuário após a escolha do estado.
+
+![image](https://github.com/user-attachments/assets/606f5ffa-d81e-4d6c-a586-611819d99d65)
 Desenvolvido por João Pedro Salles. 
