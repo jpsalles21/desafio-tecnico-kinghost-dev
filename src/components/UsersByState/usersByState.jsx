@@ -27,6 +27,9 @@ const UsersByState = ({ state }) => {
                         <tr>
                             <th>Foto</th>
                             <th>Nome</th>
+                            <th>Email</th>
+                            <th>Telefone</th>
+                            <th>Cidade</th>
                             <th>Estado</th>
                         </tr>
                     </thead>
@@ -37,6 +40,9 @@ const UsersByState = ({ state }) => {
                                     <img src={user.image} alt="user profile" className="user-image" />
                                 </td>
                                 <td>{user.firstName} {user.lastName}</td>
+                                <td>{user.email}</td>
+                                <td>{user.phone}</td>
+                                <td>{user.address.city}</td>
                                 <td>{user.address.state}</td>
                             </tr>
                         ))}
