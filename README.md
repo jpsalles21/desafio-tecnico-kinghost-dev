@@ -10,6 +10,8 @@ Projeto realizado em React, utilizando JavaScript para obter os dados da API ext
 5. No navegador, entre em localhost:3000.
 6. Aguarde até que o projeto seja inicializado.
 
+- Se preferir, você pode acessar a versão em produção do projeto, que está implantada no Vercel pelo link: https://desafio-tecnico-joao-pedro-salles.vercel.app/
+
 ## Features: 
 - Dropdown para selecionar o estado e visualizar os usuários:
   
